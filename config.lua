@@ -89,4 +89,5 @@ Config.Weapons = { -- Any weapon in this list is throwable.
     "WEAPON_HOMINGLAUNCHER",
     "WEAPON_COMPACTLAUNCHER",
     "WEAPON_RAYMINIGUN",
+    "WEAPON_BEANBAGSHOTGUN",
 }
